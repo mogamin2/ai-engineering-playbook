@@ -3,7 +3,7 @@
 AIプロジェクトの最初に、ソフトウェアを作ることではなく、  
 **意思決定者が責任を持って判断できる状態を作る**ためのCanvasです。
 
-> Version: v0.1  
+> Version: v0.1.0  
 > Recommended timebox: 1〜2週間  
 > Primary output: Yes / No / Not Yetを判断できる根拠一式
 
