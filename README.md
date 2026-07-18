@@ -20,9 +20,9 @@ AIが知らない文脈、壊れやすい場所、壊れた場合の検知方法
 
 ### AIプロジェクトで、何を判断するのかを明確にしたい
 
-→ [Decision-Ready Slice Canvas](./docs/decision-ready-slice/README.md)
+→ [Decision-Ready Slice Full Worksheet](./docs/decision-ready-slice/README.md)
 
-Named Decision、Decision Owner、比較案、仮説、反証条件を一枚にまとめ、
+Named Decision、Decision Owner、比較案、仮説、反証条件を詳しく記録し、
 Yes / No / Not Yetを判断できる状態を作ります。
 
 ### チーム全体の開発・レビュー・統制へ展開したい
@@ -72,7 +72,7 @@ AIによって短縮された時間の中で、何が保持され、何が失わ
 ### Available in v0.1.0
 
 - [Loss Scan Quick Start](./docs/loss-scan/README.md)
-- [Decision-Ready Slice Canvas](./docs/decision-ready-slice/README.md)
+- [Decision-Ready Slice Full Worksheet](./docs/decision-ready-slice/README.md)
 - [Vibe Compression Overview](./docs/vibe-compression/README.md)
 - [Project Roadmap](./ROADMAP.md)
 - [Changelog](./CHANGELOG.md)
