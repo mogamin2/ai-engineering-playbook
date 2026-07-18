@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+- Decision-Ready Slice Canvas — 1ページ版
+- Decision-Ready Slice Canvas — PDF版
+- Decision-Ready Slice Canvas — PowerPoint版
+ 
 ### Planned
 
 - Loss Scan Cardの1ページ版
@@ -37,7 +41,7 @@
 - Apache License 2.0
 - Project Roadmap
 - Loss Scan Quick Start
-- Decision-Ready Slice Canvas
+- Decision-Ready Slice Full Worksheet — Markdown版
 - Vibe Compression Overview
 
 ### Defined
