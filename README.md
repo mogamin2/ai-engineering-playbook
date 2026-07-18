@@ -3,8 +3,10 @@
 AI時代のソフトウェア開発と意思決定を、単なる「速さ」ではなく、  
 **何を保持し、何を失い、誰が責任を持つか**という観点から設計するための公開プレイブックです。
 
-> Status: Work in Progress / v0.1
+> Version: v0.1.0  
+> Status: Early public release / Working hypothesis
 
+ 
 ## Purpose
 
 このリポジトリでは、次の問いを実務で扱います。
