@@ -17,7 +17,7 @@
 
 ---
 
-## v0.1 — Minimum Usable Playbook
+## v0.1.0 — Minimum Usable Playbook
 
 最初に、単独でも実務で試せる最小成果物を公開する。
 
