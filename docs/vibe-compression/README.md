@@ -192,7 +192,8 @@ Loss Scanは、Vibe Compressionの入口です。
 
 ## Relationship to Decision-Ready Slice
 
-[Decision-Ready Slice](../decision-ready-slice/README.md)は、実装より上流の意思決定を扱います。
+[Decision-Ready Slice Full Worksheet](../decision-ready-slice/README.md)は、実装より上流の意思決定を扱います。
+
 
 両者の役割は異なります。
 
@@ -281,7 +282,7 @@ Vibe Compression自体にも失敗パターンがあります。
 ## Related Resources
 
 - [Loss Scan Quick Start](../loss-scan/README.md)
-- [Decision-Ready Slice Canvas](../decision-ready-slice/README.md)
+- [Decision-Ready Slice Full Worksheet](../decision-ready-slice/README.md)
 - [AI開発は「爆速」ではなく「圧縮」せよ](https://note.com/mogamin2/n/nbc1648594f91)
 - [Project Roadmap](../../ROADMAP.md)
 - [Repository README](../../README.md)
