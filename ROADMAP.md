@@ -17,42 +17,28 @@
 
 ---
 
-## v0.1.0 — Minimum Usable Playbook
+## v0.1.x — Minimum Usable Playbook
 
-最初に、単独でも実務で試せる最小成果物を公開する。
+v0.1系では、最小限の公開プレイブックを段階的に整備する。
 
-### 1. Loss Scan Quick Start
+### Available in v0.1.0
 
-- Loss Scanの目的
-- 3つの質問
-- 適用すべき場面
-- 適用しなくてよい場面
-- 記入例
-- 1ページのLoss Scan Card
+- Repository README
+- Apache License 2.0
+- Project Roadmap
+- Changelog
+- Loss Scan Quick Start
+- Decision-Ready Slice Canvas — Markdown worksheet
+- Vibe Compression Overview
 
-### 2. Decision-Ready Slice Canvas
+### Planned for later v0.1.x releases
 
-- Canvas本体
-- 各項目の記入方法
-- 最小の記入例
-- PDF版
-- PowerPoint版
-
-### 3. Vibe Compression Overview
-
-- CompressionとTruncation
-- Vibe Compressionの目的
-- Loss Scanとの関係
-- Decision-Ready Sliceとの関係
-- 現時点での適用範囲と限界
-
-### 4. Repository Foundations
-
-- README
-- LICENSE
-- ROADMAP
-- CHANGELOG
-- 貢献・フィードバック方法
+- Loss Scan Card — 1ページ版
+- Decision-Ready Slice Canvas — 1ページ版
+- Decision-Ready Slice PDF
+- Decision-Ready Slice PowerPoint
+- Experiment Log Template
+- 最小の記入済みサンプル
 
 ---
 
