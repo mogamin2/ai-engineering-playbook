@@ -80,7 +80,9 @@ AIによって短縮された時間の中で、何が保持され、何が失わ
 ### Planned
 
 - Loss Scan Card
-- Decision-Ready Slice PDF / PowerPoint
+- Decision-Ready Slice Canvas — 1ページ版
+- Decision-Ready Slice Canvas — PDF版
+- Decision-Ready Slice Canvas — PowerPoint版
 - Risk Class
 - Loss Budget
 - PR Template
