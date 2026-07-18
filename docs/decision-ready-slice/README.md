@@ -1,7 +1,11 @@
-# Decision-Ready Slice Canvas
+# Decision-Ready Slice Full Worksheet
 
 AIプロジェクトの最初に、ソフトウェアを作ることではなく、  
-**意思決定者が責任を持って判断できる状態を作る**ためのCanvasです。
+**意思決定者が責任を持って判断できる状態を作る**ための詳細版ワークシートです。
+
+この文書は、検討内容と判断根拠を詳しく記録するためのFull Worksheetです。  
+会議や商談で使用する1ページ版のDecision-Ready Slice Canvasは、別途公開予定です。
+
 
 > Version: v0.1.0  
 > Default timebox: 1〜2週間  
@@ -46,12 +50,16 @@ Decision-Ready Sliceは、指定された意思決定者が、一つの投資・
 
 ---
 
-## Canvas
+## Full Worksheet
 
 以下をコピーして、プロジェクトごとに記入してください。
 
+すべての項目を最初から埋める必要はありません。  
+最初はNamed Decision、Decision Owner、Options and Baseline、Decision deadlineを確定し、必要な項目だけ段階的に追加してください。
+
+
 ```markdown
-# Decision-Ready Slice
+# Decision-Ready Slice Full Worksheet
 
 ## 1. Named Decision
 
