@@ -2,7 +2,7 @@
 
 AIに仕事を任せる前に、失われやすい価値を短時間で確認するための実践ガイドです。
 
-> Version: v0.1  
+> Version: v0.1.0  
 > Estimated time: 30秒〜3分
 
 ## Loss Scanとは
