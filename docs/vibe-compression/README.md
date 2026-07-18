@@ -3,7 +3,7 @@
 AI支援開発で短くなった時間の中から、  
 **何が保持され、何が失われたのかを検知・分類・制御・計測する**ための運用モデルです。
 
-> Version: v0.1  
+> Version: v0.1.0  
 > Status: Working hypothesis
 
 ## Problem
