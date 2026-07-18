@@ -83,4 +83,7 @@ AIによって短縮された時間の中で、何が保持され、何が失わ
 
 ## License
 
-ライセンスは現在選定中です。再利用条件は後日明記します。
+This repository is licensed under the [Apache License 2.0](./LICENSE).
+
+本リポジトリの文章、テンプレート、図表、コード例は、特記がない限りApache License 2.0の条件で利用できます。
+
