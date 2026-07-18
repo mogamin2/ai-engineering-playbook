@@ -6,15 +6,12 @@
 
 ## [Unreleased]
 
+### Planned
+
+- Loss Scan Card — 1ページ版
 - Decision-Ready Slice Canvas — 1ページ版
 - Decision-Ready Slice Canvas — PDF版
 - Decision-Ready Slice Canvas — PowerPoint版
- 
-### Planned
-
-- Loss Scan Cardの1ページ版
-- Decision-Ready Slice CanvasのPDF版
-- Decision-Ready Slice CanvasのPowerPoint版
 - Risk Class
 - PR Template
 - Experiment Log Template
